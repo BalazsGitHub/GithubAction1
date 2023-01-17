@@ -9,6 +9,16 @@ jsonObject: { key1: value1, key2: value2}
 jobArray:
   -item1
   -item2
-myArray:
+myArry:
+  [
   -item1
   -item2
+  - { name: tine, age: 27}]
+longText: >
+  asdflj dasfjkéad dsfjkél
+  asdjfélasdj
+  adsfjkléa
+nolfText:
+  lasdfjdasl adsf
+  ls -a
+  pwd
