@@ -5,12 +5,21 @@ active: true
 key:
   key1: value1
   key2: value2
-jsonObject: { key: value, key2: value2 }
+  key3: value3
+jsonObject: { key: value, key2: value2, key3: value3 }
 jobArray:
   -item1
   -item2
-myArray:
+  -item3
+myArry:
     -item1
-      -item2
-      - { name:
-      tine, age: 27}
+    -item2
+    -item3
+longText: >
+  asdflj dasfjkéad dsfjkél
+  asdjfélasdj
+  adsfjkléa
+nolfText:
+  lasdfjdasl adsf
+  ls -a
+  pwd
