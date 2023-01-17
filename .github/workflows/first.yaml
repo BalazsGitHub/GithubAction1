@@ -10,9 +10,9 @@ jobArray:
   -item1
   -item2
 myArry:
-    -item1
-      -item2
-      - { name: tine, age: 27}
+  -item1
+  -item2
+  { name: tine, age: 27}
 
 longText: >
   asdflj dasfjkéad dsfjkél
