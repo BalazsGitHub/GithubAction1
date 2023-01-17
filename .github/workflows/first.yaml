@@ -4,17 +4,11 @@ address: "myway num1"
 active: true
 key:
   key1: value1
-jsonObject: { key1: value}
+  key2: value2
+jsonObject: { key1: value1, key2: value2}
 jobArray:
   -item1
-myArry:
+  -item2
+myArray:
   -item1
-    - { name: tine, age: 27}
-longText: >
-  asdflj dasfjkéad dsfjkél
-  asdjfélasdj
-  adsfjkléa
-nolfText:
-  lasdfjdasl adsf
-  ls -a
-  pwd
+  -item2
