@@ -1,21 +1,15 @@
 name: lone
-
-on: [ push ]
-
 age: 25
 address: "myway num1"
 active: true
 key:
   key1: value1
-  key2: value2
-jsonObject: { key: value, key2: value2 }
+jsonObject: { key1: value}
 jobArray:
   -item1
-  -item2
 myArry:
-    -item1
-      -item2
-      - { name, age}
+  -item1
+    - { name: tine, age: 27}
 longText: >
   asdflj dasfjkéad dsfjkél
   asdjfélasdj
